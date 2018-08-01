@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import XMidware
 
 class ViewController: UIViewController {
 
